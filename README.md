@@ -1,3 +1,6 @@
+GEMINI O CLAUDE? CUAL USASTE 
+
+
 # 📘 Robótica
 
 Este repositorio contiene todo el material de la materia de **Robótica**, organizado en carpetas para clases, tareas y proyecto final.
